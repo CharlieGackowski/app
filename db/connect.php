@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db   = 'grouptab_db'; // Replace with your actual database name
+$db   = 'admin_'; // Replace with your actual database name
 $user = 'grouptab_admin';     // Replace with your actual database username
 $pass = 'r+zBO1:5shU0@Q@x*U7A#';     // Replace with your actual database password
 $charset = 'utf8mb4';
